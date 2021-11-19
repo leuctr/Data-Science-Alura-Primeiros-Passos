@@ -1,2 +1,4 @@
-# Data-Science-Alura-Primeiros-Passos
-Curso de primeiros passos em Data Science realizado na plataforma da Alura
+# Data Science: Primeiros Passos
+
+Curso iniciante de data science realizado na plataforma da Alura. 
+Inicial com Python, importando bibliotecas Pandas e realizando plotagem pela biblioteca do Seaborn
